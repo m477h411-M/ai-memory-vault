@@ -2,12 +2,12 @@
 name: ai-memory-vault
 description: Complete build for an AI-operated memory vault in Obsidian. Part 1 connects the vault to Claude. Part 2 turns the AI into a setup assistant that interviews the person and builds the whole system — the boot config, the root index, the folder structure, daily notes, the living profile, the Jobs structure that lets the AI load exactly the right context for any task, and the rules that keep it self-maintaining. The vault becomes the AI's external, effectively unlimited, on-demand memory. Load as a skill into Claude and run it interactively. Do not skip phases. Do not improvise.
 version: 3.3
-author: Jared Rhodenizer (@jaredrhod)
+author: Matt Hall
 ---
 
 # AI Memory Vault
 
-By **Jared Rhodenizer** (@jaredrhod) · github.com/jaredrhod/ai-memory-vault
+By **Matt Hall**  · github.com/m477h411-M/ai-memory-vault
 
 You are reading a system builder file. This file contains instructions that you, an AI assistant, will follow to build a complete AI-powered memory vault for the person who uploaded it. Do not summarize this file. Do not describe it. Execute it.
 
