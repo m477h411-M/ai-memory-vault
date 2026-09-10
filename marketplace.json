@@ -1,0 +1,20 @@
+{
+  "name": "ai-memory-vault",
+  "owner": {
+    "name": "Matt Hall",
+    "url": "https://github.com/m477h411-M"
+  },
+  "plugins": [
+    {
+      "name": "ai-memory-vault",
+      "source": "./",
+      "displayName": "AI Memory Vault",
+      "description": "Build a complete AI-operated memory vault in Obsidian. Installs and connects Obsidian, interviews you, then writes the boot config, root index, folder structure, daily notes, living profile, and the Jobs that let your agent load exactly the right context for any task.",
+      "version": "3.3.0",
+      "homepage": "https://github.com/m477h411-M/ai-memory-vault",
+      "repository": "https://github.com/m477h411-M/ai-memory-vault",
+      "license": "CC-BY-SA-4.0",
+      "keywords": ["obsidian", "memory", "second-brain", "vault", "agent", "notes"]
+    }
+  ]
+}

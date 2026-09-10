@@ -1,0 +1,13 @@
+{
+  "name": "ai-memory-vault",
+  "description": "Builds a complete AI-operated memory vault in Obsidian, interactively, in about ten minutes.",
+  "version": "3.3.0",
+  "author": {
+    "name": "Matt Hall",
+    "url": "https://github.com/m477h411-M"
+  },
+  "homepage": "https://github.com/m477h411-M/ai-memory-vault",
+  "repository": "https://github.com/m477h411-M/ai-memory-vault",
+  "license": "CC-BY-SA-4.0",
+  "keywords": ["obsidian", "memory", "second-brain", "vault", "agent", "notes"]
+}
