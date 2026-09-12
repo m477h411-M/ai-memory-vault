@@ -46,6 +46,4 @@ The build script, the templates, and the wizard improve continuously. If you kee
 
 ## License
 
-Copyright (c) 2026 Jared Rhodenizer.
-
 Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). **Use it in your business, commercially, for free.** Copy it, adapt it, and build your own system on it. Two rules: credit me, and license your own adapted version the same way so the next person gets what you got. Full terms are in the LICENSE file and at https://creativecommons.org/licenses/by-sa/4.0/
